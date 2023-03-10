@@ -1,0 +1,175 @@
+body {
+  color: #40514E /*#F8ECD1*/;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+border-style: dotted none none; /*you can use
+border-bottom: none to make the bottom border
+disappear*/
+border-color: #E5E5CB;
+width: 3%;
+height: 0;
+border-width: 5px;
+margin: 100px auto;
+}
+
+a {
+  color: #E5E5CB;
+  font-family: 'Merriweather', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #D5CEA3;
+}
+
+p {
+  line-height: 2;
+}
+
+h1 {
+  color: #1A120B;
+  font-size: 5.625rem;
+  margin: 150px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #3C2A21;
+  font-family: 'Monsterrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #D5CEA3;
+  font-family: 'Monsterrat', sans-serif;
+}
+
+.top-container {
+  background-color: #1D1CE5;
+  width: 120%;
+  position: relative;
+  padding-top: 10px;
+  padding-bottom: 0;
+}
+
+.computer-pic {
+  width: 100%;
+}
+
+.skill-row {
+  background-color: #7978FF;
+  /*height: 450px;*/
+  width: 120%;
+  /*width: 50%;*/
+  position: relative;
+  /*margin: 0;*/
+  /*margin: 100px 0;*/
+  padding-top: 0;
+  padding-bottom: 10px;
+  /*margin: 100px auto;*/
+  text-align: left;
+}
+
+.bottom-container {
+  background-color: #4649FF;
+  position: relative;
+  width: 120%;
+  padding-top: 0;
+  padding-bottom: 10px;
+}
+
+.footer {
+  background-color: #1D1CE5;
+  width: 120%;
+  padding: 50px 0 20px;
+}
+
+.soft {
+  color: #DEB6AB;
+}
+
+.intro {
+/*width: 30%;
+margin: auto;*/
+}
+
+.bottom-pic {
+  position: absolute;
+  padding-left: 250px;
+  border-radius: 100%;
+}
+
+.top-pic{
+  position: absolute;
+  margin-right: 200px;
+  padding-right: 200px;
+  padding-left: 350px;
+  border-radius: 100%;
+}
+
+.skills-pic{
+  position: relative;
+  border-radius: 100%;
+  width: 10%;
+  padding-top: 30px;
+  padding-left: 180px;
+  float: left;
+  margin-right: 30px;
+}
+
+.my-skills {
+  padding: 50px 0 20px;
+}
+
+.bottom-skill{
+  position: relative;
+  border-radius: 100%;
+  width: 10%;
+  padding-right: 250px;
+  float: right;
+  margin-left: 30px;
+}
+
+.education {
+  padding: 50px auto 30px;
+  text-align: right;
+  padding-right: 300px;
+}
+
+.contact-me {
+  margin: 0 auto 50px;
+}
+
+.btn {
+  background: #d48f28;
+  background-image: -webkit-linear-gradient(top, #d48f28, #b3b82b);
+  background-image: -moz-linear-gradient(top, #d48f28, #b3b82b);
+  background-image: -ms-linear-gradient(top, #d48f28, #b3b82b);
+  background-image: -o-linear-gradient(top, #d48f28, #b3b82b);
+  background-image: linear-gradient(to bottom, #d48f28, #b3b82b);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #e02c14;
+  background-image: -webkit-linear-gradient(top, #e02c14, #d93470);
+  background-image: -moz-linear-gradient(top, #e02c14, #d93470);
+  background-image: -ms-linear-gradient(top, #e02c14, #d93470);
+  background-image: -o-linear-gradient(top, #e02c14, #d93470);
+  background-image: linear-gradient(to bottom, #e02c14, #d93470);
+  text-decoration: none;
+}
