@@ -98,6 +98,7 @@ h3 {
 .intro {
 /*width: 30%;
 margin: auto;*/
+color: #ECF2FF;
 }
 
 .bottom-pic {
@@ -126,6 +127,8 @@ margin: auto;*/
 
 .my-skills {
   padding: 50px 0 20px;
+  color: #ECF2FF;
+
 }
 
 .bottom-skill{
@@ -141,6 +144,11 @@ margin: auto;*/
   padding: 50px auto 30px;
   text-align: right;
   padding-right: 300px;
+  color: #ECF2FF;
+}
+
+.hobbies-text {
+color: #ECF2FF;
 }
 
 .contact-me {
